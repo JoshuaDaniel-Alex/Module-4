@@ -39,6 +39,7 @@ for key, value in sort.items():
 ```
 
 ## Sample Output
+<img width="821" height="113" alt="Screenshot 2025-10-21 203351" src="https://github.com/user-attachments/assets/d7b88974-6047-4e36-9675-5e757295cc3b" />
 
 ## Result
 To write a Python program that sorts a dictionary's:
