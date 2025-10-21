@@ -33,6 +33,7 @@ print(result)
 ```
 
 ## Output
+<img width="813" height="112" alt="Screenshot 2025-10-21 203220" src="https://github.com/user-attachments/assets/f87745d4-a464-472e-b668-8a24ca9fb743" />
 
 ## Result
 Thus a Python program that merges **two dictionaries** and combines their key-value pairs is executed successfully.
